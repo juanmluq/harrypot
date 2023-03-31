@@ -1,5 +1,5 @@
 {
-  "name": "cp-m3",
+  "name": "harrypot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "test:old": "jest",
     "start": "nodemon app.js"
   },
-  "author": "Henry",
+  "author": "jml",
   "license": "ISC",
   "dependencies": {
     "axios": "0.24.0",
